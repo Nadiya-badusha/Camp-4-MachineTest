@@ -1,0 +1,14 @@
+D:\vs 2020\CollegeLibraryManagement-solution\CollegeLibraryManagement\obj\Debug\net8.0\CollegeLibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs 2020\CollegeLibraryManagement-solution\CollegeLibraryManagement\obj\Debug\net8.0\CollegeLibraryManagement.AssemblyInfoInputs.cache
+D:\vs 2020\CollegeLibraryManagement-solution\CollegeLibraryManagement\obj\Debug\net8.0\CollegeLibraryManagement.AssemblyInfo.cs
+D:\vs 2020\CollegeLibraryManagement-solution\CollegeLibraryManagement\obj\Debug\net8.0\CollegeLibraryManagement.csproj.CoreCompileInputs.cache
+D:\vs 2020\CollegeLibraryManagement-solution\CollegeLibraryManagement\bin\Debug\net8.0\CollegeLibraryManagement.exe
+D:\vs 2020\CollegeLibraryManagement-solution\CollegeLibraryManagement\bin\Debug\net8.0\CollegeLibraryManagement.deps.json
+D:\vs 2020\CollegeLibraryManagement-solution\CollegeLibraryManagement\bin\Debug\net8.0\CollegeLibraryManagement.runtimeconfig.json
+D:\vs 2020\CollegeLibraryManagement-solution\CollegeLibraryManagement\bin\Debug\net8.0\CollegeLibraryManagement.dll
+D:\vs 2020\CollegeLibraryManagement-solution\CollegeLibraryManagement\bin\Debug\net8.0\CollegeLibraryManagement.pdb
+D:\vs 2020\CollegeLibraryManagement-solution\CollegeLibraryManagement\obj\Debug\net8.0\CollegeLibraryManagement.dll
+D:\vs 2020\CollegeLibraryManagement-solution\CollegeLibraryManagement\obj\Debug\net8.0\refint\CollegeLibraryManagement.dll
+D:\vs 2020\CollegeLibraryManagement-solution\CollegeLibraryManagement\obj\Debug\net8.0\CollegeLibraryManagement.pdb
+D:\vs 2020\CollegeLibraryManagement-solution\CollegeLibraryManagement\obj\Debug\net8.0\CollegeLibraryManagement.genruntimeconfig.cache
+D:\vs 2020\CollegeLibraryManagement-solution\CollegeLibraryManagement\obj\Debug\net8.0\ref\CollegeLibraryManagement.dll
